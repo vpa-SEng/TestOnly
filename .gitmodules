@@ -1,0 +1,3 @@
+[submodule "Hello"]
+	path = Hello
+	url = git://github.com/vpa-SEng/TestOnly.git
